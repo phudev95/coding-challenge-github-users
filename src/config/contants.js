@@ -1,0 +1,1 @@
+export const CONCURRENCY_FETCH_USERS = 5;
